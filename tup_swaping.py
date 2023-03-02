@@ -1,0 +1,5 @@
+tup1=(3,)
+tup2=(4,)
+print("tup1=",tup1,"tup2=",tup2)
+tup1,tup2=(4,),(3,)
+print("after swaping input1=",tup1,"tup2=",tup2)
